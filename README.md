@@ -1,6 +1,7 @@
 # vt_crawler
 ###
 Simple crawling app in Python
+
 ![image](https://user-images.githubusercontent.com/91475993/190469649-61273120-e0e1-43e2-aed1-a2caea33326d.png)
 
 ## How does it work?
