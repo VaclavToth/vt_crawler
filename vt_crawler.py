@@ -1,4 +1,4 @@
-# by Vašek Toth on Aug 27 2022
+# by Václav Toth on Aug 28 2022
 
 # We need just the necessary libraries
 import time
@@ -8,7 +8,7 @@ import requests
 # Default values - play with them, if you want more proper testing
 DEFAULT_START_PAGE = "https://seznam.cz"
 DEFAULT_TIMEOUT = 0.5
-DEFAULT_MAX_PAGES = 10
+DEFAULT_MAX_PAGES = 5
 MAX_TIMEOUT = 2
 MAX_PAGES_LIMIT = 50
 SHOW_OTHERS = False
